@@ -1,0 +1,21 @@
+[
+  {
+    "package": "greta",
+    "oncran": true
+  },
+  {
+    "package": "greta.gp"
+  },
+  {
+    "package": "greta.dynamics"
+  },
+  {
+    "package": "greta.hmm"
+  },
+  {
+    "package": "greta.gam"
+  },
+  {
+    "package": "greta.multivariate"
+  }
+]
