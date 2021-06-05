@@ -28,8 +28,3 @@
 	url = https://github.com/greta-dev/greta.gam
 	shallow = true
 	registered = true
-[submodule "greta.multivariate"]
-	path = greta.multivariate
-	url = https://github.com/greta-dev/greta.multivariate
-	shallow = true
-	registered = true
