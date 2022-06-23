@@ -28,3 +28,8 @@
 	url = https://github.com/greta-dev/greta.gam
 	shallow = true
 	registered = true
+[submodule "greta.distributions"]
+	path = greta.distributions
+	url = https://github.com/greta-dev/greta.distributions
+	shallow = true
+	registered = true

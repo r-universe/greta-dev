@@ -14,5 +14,8 @@
   },
   {
     "package": "greta.gam"
+  },
+  {
+    "package": "greta.distributions"
   }
 ]
