@@ -7,7 +7,8 @@
     "package": "greta.gp"
   },
   {
-    "package": "greta.dynamics"
+    "package": "greta.dynamics",
+    "oncran": false
   },
   {
     "package": "greta.hmm"
