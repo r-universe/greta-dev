@@ -4,7 +4,8 @@
     "oncran": true
   },
   {
-    "package": "greta.gp"
+    "package": "greta.gp",
+    "oncran": false
   },
   {
     "package": "greta.dynamics",
