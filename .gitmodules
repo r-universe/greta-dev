@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/greta-dev/universe
-	shallow = true
 	branch = HEAD
 [submodule "greta"]
 	path = greta
 	url = https://github.com/greta-dev/greta
-	shallow = true
-	registered = true
-[submodule "greta.gp"]
-	path = greta.gp
-	url = https://github.com/greta-dev/greta.gp
-	shallow = true
-	registered = true
-[submodule "greta.dynamics"]
-	path = greta.dynamics
-	url = https://github.com/greta-dev/greta.dynamics
-	shallow = true
-	registered = true
-[submodule "greta.hmm"]
-	path = greta.hmm
-	url = https://github.com/greta-dev/greta.hmm
-	shallow = true
-	registered = true
-[submodule "greta.gam"]
-	path = greta.gam
-	url = https://github.com/greta-dev/greta.gam
-	shallow = true
-	registered = true
 [submodule "greta.distributions"]
 	path = greta.distributions
 	url = https://github.com/greta-dev/greta.distributions
-	shallow = true
-	registered = true
+[submodule "greta.dynamics"]
+	path = greta.dynamics
+	url = https://github.com/greta-dev/greta.dynamics
+[submodule "greta.gam"]
+	path = greta.gam
+	url = https://github.com/greta-dev/greta.gam
+[submodule "greta.gp"]
+	path = greta.gp
+	url = https://github.com/greta-dev/greta.gp
+[submodule "greta.hmm"]
+	path = greta.hmm
+	url = https://github.com/greta-dev/greta.hmm
