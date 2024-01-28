@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/greta-dev/universe
+	url = https://github.com/greta-dev/greta-dev.r-universe.dev
 	branch = HEAD
 [submodule "greta"]
 	path = greta
